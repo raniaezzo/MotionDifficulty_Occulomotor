@@ -110,10 +110,3 @@ allpupilData.mat contains the filtered pupil data, timestamps, tab, and summary 
 
 Data_DI_wEYE/<SUBJECT>/ProcessedData/Summary/microsaccades/*_allmsData.mat
 Same matrix format as allmsData.mat. 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-MIT License
-
-Copyright (c) 2024 New York University
