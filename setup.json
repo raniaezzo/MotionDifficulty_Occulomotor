@@ -1,0 +1,36 @@
+
+{
+    "datadir": {
+        "LongName": "Data directory",
+        "Description": "Directory with the psychophysical and eye data.",
+        "Path": "/Volumes/Vision/UsersShare/Rania/MotionDifficulty_Occulomotor_Data/Data_DI_wEYE/"
+    },
+    "figsavedir": {
+        "LongName": "Figure Save directory",
+        "Description": "Directory to save figures.",
+        "Path": "/Users/rje257/Desktop/save_figures/"
+    },
+    "scriptsdir": {
+        "LongName": "Scripts directory",
+        "Description": "Directory with the scripts to run the analysis.",
+        "Path": "/Users/rje257/Documents/GitHub/MotionDifficulty_Occulomotor/"
+    },
+    "edf2ascdir": {
+        "LongName": "EDF2ASC directory",
+        "Description": "This is where the conversion functions live (required to run the conversion of raw eyelink files.",
+        "Path": "/usr/local/bin/edf2asc"
+    },
+    "subjects": {
+        "LongName": "All subjects that participated in the experiment who should be individually processed.",
+        "Subjectids": ["S01","S02","S03","S04","S05","S06","S07","S08"]
+    },
+    "protocols": {
+        "LongName": "All possible protocols run on the subjects. Not all subjects were run on both.",
+        "Protocolids": ["Full_distance_non_radialtangential","Full_distance_radialtangential"]
+    },
+    "directions": {
+        "LongName": "Abbreviations of each direction, e.g. VU is vertical upper.",
+        "Directionids": ["VU","VL", "HL", "HR", "LL", "LR", "UL", "UR"]
+    }
+}
+
