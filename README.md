@@ -114,4 +114,6 @@ Same matrix format as allmsData.mat.
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-This program is licensed under CC BY-NC 4.0.	
+MIT License
+
+Copyright (c) 2024 New York University
